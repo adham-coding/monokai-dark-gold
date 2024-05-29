@@ -1,0 +1,41 @@
+{
+  "name": "monokai-dark-gold",
+  "displayName": "Monokai Dark Gold",
+  "description": "A darker variation of One Dark Pro theme for Visual Studio Code, with Monokai code coloring.",
+  "version": "0.0.1",
+  "publisher": "adham-coding",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Gold",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Dark Gold-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "monokai",
+    "gold",
+    "onedark"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adham-coding/monokai-dark-gold.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adham-coding/monokai-dark-gold/issues"
+  },
+	"author": "Adham Coding <adhamcoding@gmail.com> (mailto:adhamcoding@gmail.com)",
+  "homepage": "https://github.com/adham-coding/monokai-dark-gold/blob/main/README.md",
+  "license": "MIT"
+}
